@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     version="1.2"
+     width="80mm" height="200mm" viewBox="0 0 80 200"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g stroke-dasharray="2,2" stroke="#FF0000" stroke-width="1" id="img-b629dfd0-1">
+  <path fill="none" d="M40,175.15 C16,105 16,105 40,34.85 "/>
+</g>
+<g stroke="#FF0000" stroke-width="1" id="img-b629dfd0-2">
+  <path fill="none" d="M40,159.56 C64,167.36 64,167.36 40,175.15 "/>
+</g>
+<g stroke="#FF0000" stroke-width="1" id="img-b629dfd0-3">
+  <path fill="none" d="M40,143.97 C64,151.77 64,151.77 40,159.56 "/>
+</g>
+<g stroke="#FF0000" stroke-width="1" id="img-b629dfd0-4">
+  <path fill="none" d="M40,128.38 C64,136.18 64,136.18 40,143.97 "/>
+</g>
+<g stroke="#FF0000" stroke-width="1" id="img-b629dfd0-5">
+  <path fill="none" d="M40,112.79 C64,120.59 64,120.59 40,128.38 "/>
+</g>
+<g stroke="#FF0000" stroke-width="1" id="img-b629dfd0-6">
+  <path fill="none" d="M40,97.21 C64,105 64,105 40,112.79 "/>
+</g>
+<g stroke="#FF0000" stroke-width="1" id="img-b629dfd0-7">
+  <path fill="none" d="M40,81.62 C64,89.41 64,89.41 40,97.21 "/>
+</g>
+<g stroke="#FF0000" stroke-width="1" id="img-b629dfd0-8">
+  <path fill="none" d="M40,66.03 C64,73.82 64,73.82 40,81.62 "/>
+</g>
+<g stroke="#FF0000" stroke-width="1" id="img-b629dfd0-9">
+  <path fill="none" d="M40,50.44 C64,58.23 64,58.23 40,66.03 "/>
+</g>
+<g stroke="#FF0000" stroke-width="1" id="img-b629dfd0-10">
+  <path fill="none" d="M40,34.85 C64,42.64 64,42.64 40,50.44 "/>
+</g>
+<g stroke-width="1" stroke="#000000" fill="#C0C0C0" id="img-b629dfd0-11">
+  <use xlink:href="#img-b629dfd0-12" x="40" y="175.15"/>
+</g>
+<g stroke-width="0.1" stroke="#000000" id="img-b629dfd0-13">
+  <text x="40" y="175.15" text-anchor="middle" dy="0.35em">10</text>
+</g>
+<g stroke-width="1" stroke="#000000" fill="#C0C0C0" id="img-b629dfd0-14">
+  <use xlink:href="#img-b629dfd0-15" x="40" y="159.56"/>
+</g>
+<g stroke-width="0.1" stroke="#000000" id="img-b629dfd0-16">
+  <text x="40" y="159.56" text-anchor="middle" dy="0.35em">9</text>
+</g>
+<g stroke-width="1" stroke="#000000" fill="#C0C0C0" id="img-b629dfd0-17">
+  <use xlink:href="#img-b629dfd0-18" x="40" y="143.97"/>
+</g>
+<g stroke-width="0.1" stroke="#000000" id="img-b629dfd0-19">
+  <text x="40" y="143.97" text-anchor="middle" dy="0.35em">8</text>
+</g>
+<g stroke-width="1" stroke="#000000" fill="#C0C0C0" id="img-b629dfd0-20">
+  <use xlink:href="#img-b629dfd0-21" x="40" y="128.38"/>
+</g>
+<g stroke-width="0.1" stroke="#000000" id="img-b629dfd0-22">
+  <text x="40" y="128.38" text-anchor="middle" dy="0.35em">7</text>
+</g>
+<g stroke-width="1" stroke="#000000" fill="#C0C0C0" id="img-b629dfd0-23">
+  <use xlink:href="#img-b629dfd0-24" x="40" y="112.79"/>
+</g>
+<g stroke-width="0.1" stroke="#000000" id="img-b629dfd0-25">
+  <text x="40" y="112.79" text-anchor="middle" dy="0.35em">6</text>
+</g>
+<g stroke-width="1" stroke="#000000" fill="#C0C0C0" id="img-b629dfd0-26">
+  <use xlink:href="#img-b629dfd0-27" x="40" y="97.21"/>
+</g>
+<g stroke-width="0.1" stroke="#000000" id="img-b629dfd0-28">
+  <text x="40" y="97.21" text-anchor="middle" dy="0.35em">5</text>
+</g>
+<g stroke-width="1" stroke="#000000" fill="#C0C0C0" id="img-b629dfd0-29">
+  <use xlink:href="#img-b629dfd0-30" x="40" y="81.62"/>
+</g>
+<g stroke-width="0.1" stroke="#000000" id="img-b629dfd0-31">
+  <text x="40" y="81.62" text-anchor="middle" dy="0.35em">4</text>
+</g>
+<g stroke-width="1" stroke="#000000" fill="#C0C0C0" id="img-b629dfd0-32">
+  <use xlink:href="#img-b629dfd0-33" x="40" y="66.03"/>
+</g>
+<g stroke-width="0.1" stroke="#000000" id="img-b629dfd0-34">
+  <text x="40" y="66.03" text-anchor="middle" dy="0.35em">3</text>
+</g>
+<g stroke-width="1" stroke="#000000" fill="#C0C0C0" id="img-b629dfd0-35">
+  <use xlink:href="#img-b629dfd0-36" x="40" y="50.44"/>
+</g>
+<g stroke-width="0.1" stroke="#000000" id="img-b629dfd0-37">
+  <text x="40" y="50.44" text-anchor="middle" dy="0.35em">2</text>
+</g>
+<g stroke-width="1" stroke="#000000" fill="#C0C0C0" id="img-b629dfd0-38">
+  <use xlink:href="#img-b629dfd0-39" x="40" y="34.85"/>
+</g>
+<g stroke-width="0.1" stroke="#000000" id="img-b629dfd0-40">
+  <text x="40" y="34.85" text-anchor="middle" dy="0.35em">1</text>
+</g>
+<text x="40" y="25.29" text-anchor="middle"></text>
+<defs>
+  <g id="img-b629dfd0-12">
+    <circle cx="0" cy="0" r="6.24"/>
+  </g>
+  <g id="img-b629dfd0-15">
+    <circle cx="0" cy="0" r="6.24"/>
+  </g>
+  <g id="img-b629dfd0-18">
+    <circle cx="0" cy="0" r="6.24"/>
+  </g>
+  <g id="img-b629dfd0-21">
+    <circle cx="0" cy="0" r="6.24"/>
+  </g>
+  <g id="img-b629dfd0-24">
+    <circle cx="0" cy="0" r="6.24"/>
+  </g>
+  <g id="img-b629dfd0-27">
+    <circle cx="0" cy="0" r="6.24"/>
+  </g>
+  <g id="img-b629dfd0-30">
+    <circle cx="0" cy="0" r="6.24"/>
+  </g>
+  <g id="img-b629dfd0-33">
+    <circle cx="0" cy="0" r="6.24"/>
+  </g>
+  <g id="img-b629dfd0-36">
+    <circle cx="0" cy="0" r="6.24"/>
+  </g>
+  <g id="img-b629dfd0-39">
+    <circle cx="0" cy="0" r="6.24"/>
+  </g>
+</defs>
+</svg>
