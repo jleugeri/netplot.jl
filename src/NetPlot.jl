@@ -65,9 +65,10 @@ function netplot(n, s; svg_args=(10cm, 10cm), layer_mask=nothing, whitespace=0.2
         if layer_mask[j]
             append!(options, [(Compose.context(), Compose.text(0.5, 0.5, "($(length(l)) neurons)", Compose.hcenter, Compose.vcenter, Compose.Rotation(π/2))), (Compose.context(), Compose.rectangle(), Compose.fill("silver"))])
         else
+            radius = min(0.4w,0.4h)
             append!(options, [(context(0, (i-1)/length(l), 1, 1/length(l)),
                         (context(), Compose.text(0.5, 0.5, x, Compose.hcenter, Compose.vcenter), Compose.stroke("black"), Compose.linewidth(0.1)),
-                        (context(), circle(0.5, 0.5, min(0.25w,0.25h)), fill("silver"), Compose.stroke("black"), Compose.linewidth(1))) for (i,x) ∈ enumerate(l)])
+                        (context(), circle(0.5, 0.5, radius), fill("silver"), Compose.stroke("black"), Compose.linewidth(1))) for (i,x) ∈ enumerate(l)])
         end
         push!(layers,(context(layer_left[j], layer_top[j], layer_width, layer_height[j]),
                 (context(0,0,1,20pt), Compose.text(0.5, 1h-5pt, layer_name[j], Compose.hcenter, Compose.vbottom)),
